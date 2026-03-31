@@ -5,7 +5,7 @@
 🧠 Sobre mim
 
 Atualmente estudo tecnologia e estou dando meus primeiros passos no mundo do desenvolvimento de sistemas. Tenho interesse em aprender novas linguagens, melhorar minha lógica de programação e evoluir por meio da prática e de projetos pessoais.
-Já possuo noções de C#, HTML, CSS e banco de dados, e sigo estudando para ampliar meus conhecimentos na área.link https://guilhermemendes010.github.io/portofólio/
+Já possuo noções de C#, HTML, CSS e banco de dados, e sigo estudando para ampliar meus conhecimentos na área.link https://guilhermemendes010.github.io/portofolio/
 
 ⚙️ Linguagens de Programação
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
